@@ -360,7 +360,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mapWidth: 100
   mapHeight: 100
-  noiseScale: 1.17
+  noiseScale: 2.5
+  octaves: 4
+  persistance: 0.02
+  lacunarity: 1.22
+  seed: 33
+  offset: {x: 0, y: 0}
   autoUpdate: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
